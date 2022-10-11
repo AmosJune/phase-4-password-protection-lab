@@ -1,0 +1,16 @@
+current directory: /home/access/Documents/phase4/cookies n sessions/phase-4-password-protection-lab/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+/home/access/.rbenv/versions/2.7.0/bin/ruby -I /home/access/.rbenv/versions/2.7.0/lib/ruby/site_ruby/2.7.0 extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/access/Documents/phase4/cookies n sessions/phase-4-password-protection-lab/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20221011-36619-b1gugz sitelibdir\=./.gem.20221011-36619-b1gugz clean
+
+current directory: /home/access/Documents/phase4/cookies n sessions/phase-4-password-protection-lab/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20221011-36619-b1gugz sitelibdir\=./.gem.20221011-36619-b1gugz
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/access/Documents/phase4/cookies n sessions/phase-4-password-protection-lab/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20221011-36619-b1gugz sitelibdir\=./.gem.20221011-36619-b1gugz install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20221011-36619-b1gugz/racc
